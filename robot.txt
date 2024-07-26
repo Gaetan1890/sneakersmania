@@ -1,0 +1,4 @@
+User-agent : *
+Allow: /
+
+Sitemap: https://www.snekersmania.com/sitemap.xml
